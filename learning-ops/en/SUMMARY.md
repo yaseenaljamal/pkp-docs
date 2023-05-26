@@ -29,6 +29,7 @@
 * [Editorial Workflow](./editorial-workflow)
   * [Submissions Dashboard](./editorial-workflow#submissions-dashboard)
   * [Making a Submission](./editorial-workflow#making-a-submission)
+  * [License Selection](./editorial-workflow#license-selection)
   * [Moderation and Production](./editorial-workflow#moderation-and-production)
   * [Publication](./editorial-workflow#publication)
   * [Publishing New Versions](./editorial-workflow#publishing-new-versions)
