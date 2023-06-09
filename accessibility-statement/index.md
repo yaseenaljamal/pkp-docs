@@ -11,4 +11,4 @@ OJS Default Theme technical and legal coverage and disclaimer.
 * [Português](pt/)
 * [Español](es/)
 
-
+Author: Public Knowledge Project - 2021
